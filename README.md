@@ -23,16 +23,16 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criar um avatar para converçar e entender as necessidades e ofertar beneficios para os clientes. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT, Bing Chat  ou Google Bard, Aloy e outros
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+IA
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Em execução. 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
